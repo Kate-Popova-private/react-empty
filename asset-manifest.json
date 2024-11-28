@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hlegal-private/static/css/main.f855e6bc.css",
-    "main.js": "/hlegal-private/static/js/main.32a41d39.js",
-    "static/js/453.c711924e.chunk.js": "/hlegal-private/static/js/453.c711924e.chunk.js",
-    "static/media/logo.svg": "/hlegal-private/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hlegal-private/index.html",
-    "main.f855e6bc.css.map": "/hlegal-private/static/css/main.f855e6bc.css.map",
-    "main.32a41d39.js.map": "/hlegal-private/static/js/main.32a41d39.js.map",
-    "453.c711924e.chunk.js.map": "/hlegal-private/static/js/453.c711924e.chunk.js.map"
+    "main.css": "/react-empty/static/css/main.f855e6bc.css",
+    "main.js": "/react-empty/static/js/main.5124856f.js",
+    "static/js/453.c711924e.chunk.js": "/react-empty/static/js/453.c711924e.chunk.js",
+    "static/media/logo.svg": "/react-empty/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-empty/index.html",
+    "main.f855e6bc.css.map": "/react-empty/static/css/main.f855e6bc.css.map",
+    "main.5124856f.js.map": "/react-empty/static/js/main.5124856f.js.map",
+    "453.c711924e.chunk.js.map": "/react-empty/static/js/453.c711924e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.32a41d39.js"
+    "static/js/main.5124856f.js"
   ]
 }
